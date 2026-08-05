@@ -1,0 +1,9 @@
+{
+    "d4b5fc6f-9c80-4e6f-86d3-634244ef88d6": {
+        "name": "CalPay payments",
+        "path": "src\/joomla_component\/d4b5fc6f-9c80-4e6f-86d3-634244ef88d6",
+        "settings": "src\/joomla_component\/d4b5fc6f-9c80-4e6f-86d3-634244ef88d6\/item.json",
+        "guid": "d4b5fc6f-9c80-4e6f-86d3-634244ef88d6",
+        "desc": "CalPay payments"
+    }
+}
