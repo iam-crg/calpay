@@ -60,6 +60,7 @@ This makes them ideal for distributed teams, client-specific forks, and open-sou
 
  - **CalPay payments** | [Details](src/joomla_component/d4b5fc6f-9c80-4e6f-86d3-634244ef88d6) | [Settings](src/joomla_component/d4b5fc6f-9c80-4e6f-86d3-634244ef88d6/item.json) | CalPay payments
  - **TOPIAU** | [Details](src/joomla_component/881ba8ec-ba23-4d91-a5bb-89cd4d6d50a1) | [Settings](src/joomla_component/881ba8ec-ba23-4d91-a5bb-89cd4d6d50a1/item.json) | TOPIAU
+ - **WACA** | [Details](src/joomla_component/20efe59b-0d50-4a61-8392-912fb902f951) | [Settings](src/joomla_component/20efe59b-0d50-4a61-8392-912fb902f951/item.json) | WACA
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
