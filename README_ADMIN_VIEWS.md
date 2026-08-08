@@ -46,6 +46,7 @@ This ensures maintainability while still allowing total customization per projec
 
 
  - **CalpayPayments** | [Details](src/admin_view/77d597cc-cc79-4985-ae08-55312b70d8e4) | [Settings](src/admin_view/77d597cc-cc79-4985-ae08-55312b70d8e4/item.json) | Calpay Payments
+ - **questions** | [Details](src/admin_view/e44f3232-1102-45a7-b2a6-00a0dc8e29b5) | [Settings](src/admin_view/e44f3232-1102-45a7-b2a6-00a0dc8e29b5/item.json) | Question
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
