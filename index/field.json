@@ -88,5 +88,17 @@
         "path": "src\/field\/df8eb142-cdfc-4e8c-ab6a-5e7cde268440",
         "settings": "src\/field\/df8eb142-cdfc-4e8c-ab6a-5e7cde268440\/item.json",
         "guid": "df8eb142-cdfc-4e8c-ab6a-5e7cde268440"
+    },
+    "a86d7c74-6787-40f2-bb42-1522c9e61dd5": {
+        "name": "answer",
+        "path": "src\/field\/a86d7c74-6787-40f2-bb42-1522c9e61dd5",
+        "settings": "src\/field\/a86d7c74-6787-40f2-bb42-1522c9e61dd5\/item.json",
+        "guid": "a86d7c74-6787-40f2-bb42-1522c9e61dd5"
+    },
+    "fddbbe01-a435-481a-b09f-12cb97c71245": {
+        "name": "question",
+        "path": "src\/field\/fddbbe01-a435-481a-b09f-12cb97c71245",
+        "settings": "src\/field\/fddbbe01-a435-481a-b09f-12cb97c71245\/item.json",
+        "guid": "fddbbe01-a435-481a-b09f-12cb97c71245"
     }
 }
