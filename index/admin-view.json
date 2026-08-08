@@ -5,5 +5,12 @@
         "settings": "src\/admin_view\/77d597cc-cc79-4985-ae08-55312b70d8e4\/item.json",
         "guid": "77d597cc-cc79-4985-ae08-55312b70d8e4",
         "desc": "Calpay Payments"
+    },
+    "e44f3232-1102-45a7-b2a6-00a0dc8e29b5": {
+        "name": "questions",
+        "path": "src\/admin_view\/e44f3232-1102-45a7-b2a6-00a0dc8e29b5",
+        "settings": "src\/admin_view\/e44f3232-1102-45a7-b2a6-00a0dc8e29b5\/item.json",
+        "guid": "e44f3232-1102-45a7-b2a6-00a0dc8e29b5",
+        "desc": "Question"
     }
 }
