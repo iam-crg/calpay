@@ -59,6 +59,8 @@ Whether you're building for:
 
 
  - **dummylist** | [Details](src/dynamic_get/564dbab8-4c24-4713-853b-99807df3fe4f) | [Settings](src/dynamic_get/564dbab8-4c24-4713-853b-99807df3fe4f/item.json)
+ - **getQuestion** | [Details](src/dynamic_get/1fc8191a-c038-41a6-8238-95bb957086aa) | [Settings](src/dynamic_get/1fc8191a-c038-41a6-8238-95bb957086aa/item.json)
+ - **myQuestions** | [Details](src/dynamic_get/ab91c8b0-2646-4e5a-85b7-af5857e1a272) | [Settings](src/dynamic_get/ab91c8b0-2646-4e5a-85b7-af5857e1a272/item.json)
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
