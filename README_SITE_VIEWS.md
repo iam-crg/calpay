@@ -56,6 +56,8 @@ This ensures consistent updates while preserving your customizations and logic.
 
 
  - **CALPAY Transactions** | [Details](src/site_view/20d5e9d8-8902-446b-910f-bd95702ce651) | [Settings](src/site_view/20d5e9d8-8902-446b-910f-bd95702ce651/item.json) | CALPAY Transactions
+ - **ask_my_question** | [Details](src/site_view/ac1dc92b-62a7-487d-8b8f-bbfe333d702f) | [Settings](src/site_view/ac1dc92b-62a7-487d-8b8f-bbfe333d702f/item.json) | ask_my_question
+ - **questions** | [Details](src/site_view/dd2bbcd1-5441-4386-84c8-18ed27bed5e8) | [Settings](src/site_view/dd2bbcd1-5441-4386-84c8-18ed27bed5e8/item.json) | Questions
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
