@@ -75,6 +75,7 @@ This preserves version control while allowing your own field improvements to liv
  - **answer** | [Details](src/field/a86d7c74-6787-40f2-bb42-1522c9e61dd5) | [Settings](src/field/a86d7c74-6787-40f2-bb42-1522c9e61dd5/item.json)
  - **apiUrl** | [Details](src/field/f16e0e32-2550-465d-ae64-21345f8741df) | [Settings](src/field/f16e0e32-2550-465d-ae64-21345f8741df/item.json)
  - **enable_logging** | [Details](src/field/ca90447c-49db-4ce1-9d5a-f8d453ac0b06) | [Settings](src/field/ca90447c-49db-4ce1-9d5a-f8d453ac0b06/item.json)
+ - **enable_trace** | [Details](src/field/fda23329-b769-4143-a76d-abfe0314e11a) | [Settings](src/field/fda23329-b769-4143-a76d-abfe0314e11a/item.json)
  - **log_path** | [Details](src/field/2a0b3538-9e6b-40b8-a916-402db93f9783) | [Settings](src/field/2a0b3538-9e6b-40b8-a916-402db93f9783/item.json)
  - **question** | [Details](src/field/fddbbe01-a435-481a-b09f-12cb97c71245) | [Settings](src/field/fddbbe01-a435-481a-b09f-12cb97c71245/item.json)
  - **transaction_date** | [Details](src/field/babcb176-a9ee-4113-9f8a-a89ae34e80b0) | [Settings](src/field/babcb176-a9ee-4113-9f8a-a89ae34e80b0/item.json)
